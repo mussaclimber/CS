@@ -1,0 +1,15 @@
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/bin/Debug/net6.0/task_6
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/bin/Debug/net6.0/task_6.deps.json
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/bin/Debug/net6.0/task_6.runtimeconfig.json
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/bin/Debug/net6.0/task_6.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/bin/Debug/net6.0/task_6.pdb
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/task_6.csproj.AssemblyReference.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/task_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/task_6.AssemblyInfoInputs.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/task_6.AssemblyInfo.cs
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/task_6.csproj.CoreCompileInputs.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/task_6.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/refint/task_6.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/task_6.pdb
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/task_6.genruntimeconfig.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_6/obj/Debug/net6.0/ref/task_6.dll
