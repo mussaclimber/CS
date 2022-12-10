@@ -1,0 +1,15 @@
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/bin/Debug/net6.0/task_2
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/bin/Debug/net6.0/task_2.deps.json
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/bin/Debug/net6.0/task_2.runtimeconfig.json
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/bin/Debug/net6.0/task_2.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/bin/Debug/net6.0/task_2.pdb
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/task_2.csproj.AssemblyReference.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/task_2.AssemblyInfoInputs.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/task_2.AssemblyInfo.cs
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/task_2.csproj.CoreCompileInputs.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/task_2.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/refint/task_2.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/task_2.pdb
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/task_2.genruntimeconfig.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_2/obj/Debug/net6.0/ref/task_2.dll
