@@ -22,4 +22,3 @@ while (num < 99)
 					Console.WriteLine($"Третья цифра {num % 10}");
 			}
     }
-
