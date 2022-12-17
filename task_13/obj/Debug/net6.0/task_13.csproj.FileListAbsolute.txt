@@ -1,0 +1,15 @@
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/task_13.csproj.AssemblyReference.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/task_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/task_13.AssemblyInfoInputs.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/task_13.AssemblyInfo.cs
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/task_13.csproj.CoreCompileInputs.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/bin/Debug/net6.0/task_13
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/bin/Debug/net6.0/task_13.deps.json
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/bin/Debug/net6.0/task_13.runtimeconfig.json
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/bin/Debug/net6.0/task_13.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/bin/Debug/net6.0/task_13.pdb
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/task_13.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/refint/task_13.dll
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/task_13.pdb
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/task_13.genruntimeconfig.cache
+/Users/mussadzhukkav/Desktop/CS/seminar_1/task_13/obj/Debug/net6.0/ref/task_13.dll
