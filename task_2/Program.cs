@@ -1,37 +1,21 @@
 ﻿Console.Clear();
 
-Console.Write("Первое число: ");
+Console.WriteLine("Введите первое число");
 int numA = int.Parse(Console.ReadLine());
-Console.Write("Второе число: ");
+Console.WriteLine("Введите второе число");
 int numB = int.Parse(Console.ReadLine());
-    if (numA > numB) 
-    {
-	    Console.WriteLine("Первое число больше");
-    }
-    else 
-    {
-	    Console.WriteLine("Второе число больше");
-    }
+Console.WriteLine("Введите третье число");
+int numC = int.Parse(Console.ReadLine());
 
-
-// Если введут два одинаковых числа
-    /*
-    
-Console.Write("Первое число: ");
-int numA = int.Parse(Console.ReadLine());
-Console.Write("Второе число: ");
-int numB = int.Parse(Console.ReadLine());
- 
-    if (numA > numB)
-    {
-        Console.WriteLine("Первое число больше второго");
-    }
-     else if (numA < numB)
-     {
-                Console.WriteLine("Первое число меньше второго");
-    }
-    else
-    {
-        Console.WriteLine("Оба числа равны");
-    }
-    */
+if (numA > numB && numA > numC)
+{
+	Console.WriteLine("Первое число самое больше");
+}
+else if (numB > numA && numB > numC)
+{
+	Console.WriteLine("Второе число самое больше");
+}
+else if (numC > numA && numC > numB)
+{
+	Console.WriteLine("Третье число самое больше");
+}

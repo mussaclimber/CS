@@ -1,21 +1,12 @@
 ﻿Console.Clear();
 
-Console.WriteLine("Введите первое число");
-int numA = int.Parse(Console.ReadLine());
-Console.WriteLine("Введите второе число");
-int numB = int.Parse(Console.ReadLine());
-Console.WriteLine("Введите третье число");
-int numC = int.Parse(Console.ReadLine());
-
-if (numA > numB && numA > numC)
+Console.Write("Введите число: ");
+int n = int.Parse(Console.ReadLine());
+int m = 1;
+int i = 2;
+for ( i = m; i <= n; i++)
+if ( i % 2 == 0)
 {
-	Console.WriteLine("Первое число самое больше");
+    Console.WriteLine(i);
 }
-else if (numB > numA && numB > numC)
-{
-	Console.WriteLine("Второе число самое больше");
-}
-else if (numC > numA && numC > numB)
-{
-	Console.WriteLine("Третье число самое больше");
-}
+    Console.WriteLine("Это все четные числа из введенного числа");
